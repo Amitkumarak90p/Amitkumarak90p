@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Amit Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 Blockchain Enthusiast | 🏋️‍♂️ Fitness & Tech Innovator</h3>
+<h3 align="center">🚀 Full Stack Developer | 🧠 Start-Up Enthusiast | 🏋️‍♂️ Fitness & Tech Innovator</h3>
 
 ---
 
