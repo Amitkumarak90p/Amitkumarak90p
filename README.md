@@ -6,7 +6,7 @@
 
 ### 🧩 About Me
 - 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 Learning **MERN Stack | DSA ( C++ ) **
+- 🌱 Learning MERN Stack | DSA ( C++ ) 
 - 💬 Ask me about **React, Node.js, and fitness-tech startups**
 - ⚡ Fun fact: I can code and deadlift in the same hour 💪
 
@@ -22,7 +22,7 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amitkumarak90p&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumarak90p&theme=radical" height="160px"/>
+  <img src="https://github-readme-streak-stats.vercel.app/api?username=Amitkumarak90p&theme=radical" height="160px"/>
 </p>
 
 ---
